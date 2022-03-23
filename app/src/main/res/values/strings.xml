@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CamH</string>
+
+    <string-array name="units_array">
+        <item>Unit(mts.)</item>
+        <item>Unit(cms.)</item>
+        <item>Unit(ft.)</item>
+        <item>Unit(in.)</item>
+    </string-array>
+
+
+</resources>

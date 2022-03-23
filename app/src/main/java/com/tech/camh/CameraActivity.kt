@@ -44,6 +44,8 @@ class CameraActivity : AppCompatActivity(), SensorEventListener {
 
     private val units = arrayOf("meters", "cms", "feet", "inches")
 
+    val TAG = "TAG"
+
     var unit = 0
 
     private var mGravity: FloatArray? = null
